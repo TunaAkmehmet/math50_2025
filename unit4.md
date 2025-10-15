@@ -16,7 +16,7 @@ Material:
 
 # Concepts
 
-Regression with multiple predictors, covariance matrix, Simpson's paradox, collinearity, $F$-tests, catagorical predictors and dummy variables, analysis of variance
+Regression with multiple predictors, covariance matrix, Simpson's paradox, collinearity, F-tests, categorical predictors and dummy variables, analysis of variance (ANOVA).
   
 
 # Things to practice
