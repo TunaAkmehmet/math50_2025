@@ -15,10 +15,10 @@ Material:
 - [Colab notebook]()
 
 # Concepts
-Interactions, Residual plots and diagnostics (interaction detection), Nonlinear models within the linear framework/(focusing on polynomials), Cross validation, test/training data and overfitting. 
+Interactions, Residual plots and diagnostics (interaction detection), Nonlinear models within the linear framework (focusing on polynomials), Cross validation, Test/training data, and overfitting. 
 
 # Things to practice
-- Write Python codes that determines whether you can detect a given interaction with a given amount of data. 
+- Write Python code that determines whether you can detect a given interaction with a given amount of data. 
 - Make residual plots and identify what might be wrong with a model. 
 - Be able to convert nonlinear modeling goals into a linear‑in‑parameters form using basis functions. Fit in Python. 
 - Exploratory data analysis: Find a dataset and try to answer some questions about it. 
